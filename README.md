@@ -1,4 +1,4 @@
-## 🤓Vitor H.L de Andrade🤓
+## Vitor H.L de Andrade
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=5581996394805&text=Ol%C3%A1,%20acessei%20seu%20WhatsLink)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vitorhla)](https://github.com/vitorhla)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-andrade-9b6610162/)](https://www.linkedin.com/in/vitor-andrade-9b6610162/)
