@@ -12,7 +12,7 @@ Meu nome é Vitor, Estou cursando Analise e Desenvolvimento de Sistemas, atualme
 - 📚 Estudando as stacks Java springboot, React e React-Native.
 - 📡 Neste momento busco colaborar com projetos Back-end.
 - 💬 Sobre mim: Aficionado por aprendizado, séries de animes e documentarios.
-- 📚 Faculdade Estácio
+- 📚 Faculdade Estácio.
 - 📚 Especilização escola DEVSUPERIOR  -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devsuperior)](https://github.com/devsuperior)
 -  Professor: Nelio Alves -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/acenelio)](https://github.com/acenelio)
 
