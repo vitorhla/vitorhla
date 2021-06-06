@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorhenriquealt@gmail.com)](mailto:vitorhenriquealt@gmail.com)
 
 ### Opa, tudo certo?
-Meu nome é Vitor, Estou cursando Analise e Desenvolvimento de Sistemas, atualmente estou em uma grande trilha de aprendizado, me especializando em Java com Springboot, na escola
+Meu nome é Vitor, Estou cursando Analise e Desenvolvimento de Sistemas, atualmente estou em uma grande trilha de aprendizado, me especializando em Java com Springboot.
 - 👨🏻‍💻 Dev Java Jr.
 - 🔍 Atualmente aberto a novas oportunidades.
 - 📋 Trabalhando atualmente como Analista de Suporte e TI.
