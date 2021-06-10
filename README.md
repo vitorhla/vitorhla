@@ -21,7 +21,7 @@ Meu nome é Vitor, Estou cursando Analise e Desenvolvimento de Sistemas, atualme
 ### Languages and Github Stats
 <p align="center">
     
-  ![Pinhobrundev's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorhla&theme=omni&show_icons=true)
+  ![vitorhla GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorhla&theme=omni&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhla&layout=compact&theme=omni)
  
 </p>
