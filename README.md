@@ -18,10 +18,5 @@ Meu nome é Vitor, Estou cursando Analise e Desenvolvimento de Sistemas, atualme
 -  Projeto em produção desenvolvido na semana Spring React https://dsvendasvitor.netlify.app/ OBS: o backend e banco estão no heroku, como ele desliga a VM é necessário aguardar um pouco para que a VM inicialize para ser exibido os gráficos na Dashboard.
 
 
-### Languages and Github Stats
-<p align="center">  
-  
-  ![vitorhla GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorhla&theme=omni&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhla&layout=compact&theme=omni)
-  
-</p>
+![github stats](https://github-readme-stats.vercel.app/api?username=vitorhla&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhla&layout=compact)
