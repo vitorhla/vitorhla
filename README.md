@@ -7,8 +7,7 @@
 ### Olá, tudo bem?
 Meu nome é Vitor, Estou cursando Analise e Desenvolvimento de Sistemas, atualmente estou em uma grande trilha de aprendizado, me especializando em Java com Springboot no Backend e 
 ReactJS e ReactNative no Frontend.
-- 👨🏻‍💻 Dev Java Jr.
-- 🔍 Atualmente aberto a novas oportunidades.
+- 🔍 Atualmente aberto a novas oportunidades como Dev Java com Spring.
 - 📋 Trabalhando atualmente como Analista de Suporte e TI.
 - 📚 Estudando as stacks Java springboot, React e React-Native.
 - 📡 Neste momento busco colaborar com projetos Back-end.
