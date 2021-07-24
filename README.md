@@ -21,6 +21,5 @@ ReactJS e ReactNative no Frontend.
 -  Professor: Nelio Alves -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/acenelio)](https://github.com/acenelio)
 -  Projeto em produção desenvolvido na semana Spring React https://dsvendasvitor.netlify.app/ OBS: o backend e banco estão no heroku, como ele desliga a VM é necessário aguardar um pouco para que a VM inicialize para ser exibido os gráficos na dashboard.
 
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=vitorhla&show_icons=true)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhla&layout=compact)
