@@ -18,7 +18,6 @@ ReactJS no Frontend.
 - 📚 Especilização na escola DEVSUPERIOR  -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devsuperior)](https://github.com/devsuperior)
 -  Professor: Nelio Alves -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/acenelio)](https://github.com/acenelio)
 -  Projeto em produção desenvolvido na semana Spring React https://dsvendasvitor.netlify.app/  e https://dsmovie-vitorandrade.netlify.app 
--  OBS: o backend e banco estão no heroku, é necessário aguardar um pouco para que a aplicação inicie para ser exibido os gráficos na dashboard.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=vitorhla&show_icons=true)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhla&layout=compact)
