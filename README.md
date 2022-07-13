@@ -16,7 +16,7 @@
 
 
 ### Olá, Tudo bem com você ?
-Meu nome é Vitor, Estou cursando Analise e Desenvolvimento de Sistemas, atualmente estou em uma grande trilha de aprendizado, me especializando em Java com Springboot no Backend e 
+Cursando Analise e Desenvolvimento de Sistemas, atualmente estou em uma grande trilha de aprendizado, me especializando em Java com Springboot no Backend e 
 ReactJS no Frontend.
 - 📋 Trabalhando atualmente como Desenvolvedor Pleno.
 - 📚 Estudando as stacks Java springboot e  ReactJS
