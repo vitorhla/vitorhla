@@ -10,11 +10,10 @@
 
 ### Olá, Tudo bem com você ?
 Meu nome é Vitor, Estou cursando Analise e Desenvolvimento de Sistemas, atualmente estou em uma grande trilha de aprendizado, me especializando em Java com Springboot no Backend e 
-ReactJS e ReactNative no Frontend.
-- 📋 Trabalhando atualmente como Analista de TI Pleno.
-- 📚 Estudando as stacks Java springboot, React e React-Native.
-- 📡 Neste momento busco colaborar com projetos Back-end.
-- 💬 Sobre mim: Aficionado por aprendizado, séries de animes e documentarios.
+ReactJS no Frontend.
+- 📋 Trabalhando atualmente como Desenvolvedor Pleno.
+- 📚 Estudando as stacks Java springboot e  ReactJS
+- 💬 Sobre mim: Aficionado por aprendizado, séries de animes e documentários.
 - 📚 Cursando ADS na Faculdade Estácio.
 - 📚 Especilização na escola DEVSUPERIOR  -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devsuperior)](https://github.com/devsuperior)
 -  Professor: Nelio Alves -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/acenelio)](https://github.com/acenelio)
