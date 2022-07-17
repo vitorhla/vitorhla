@@ -23,7 +23,10 @@ ReactJS no Frontend.
 - 📚 Cursando ADS na Faculdade Estácio.
 - 📚 Especilização na escola DEVSUPERIOR  -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devsuperior)](https://github.com/devsuperior) Professor: Nelio Alves -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/acenelio)](https://github.com/acenelio)
 
--  Projetos Desenvolvidos: https://dsvendasvitor.netlify.app/  e https://dsmovie-vitorandrade.netlify.app 
+-  Projetos Desenvolvidos: 
+https://dsvendasvitor.netlify.app/  
+https://dsmovie-vitorandrade.netlify.app 
+https://dsmeta-vitorandrade.netlify.app/
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=vitorhla&show_icons=true)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhla&layout=compact)
