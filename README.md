@@ -18,9 +18,9 @@
 Cursando Analise e Desenvolvimento de Sistemas, atualmente estou em uma grande trilha de aprendizado, me especializando em Java com Springboot no Backend e 
 ReactJS no Frontend.
 - 📋 Trabalhando atualmente como Desenvolvedor Pleno.
-- 📚 Estudando as stacks Java springboot e  ReactJS
-- 💬 Sobre mim: Aficionado por aprendizado, séries de animes e documentários.
-- 📚 Cursando ADS na Faculdade Estácio.
+- 📚stacks Java springboot, ReactJS, PLSQL
+- 📚 Formado em Analise e Desenvolvimento de Sistemas.
+- 📚 Cursando pós em Engenharia de Software.
 - 📚 Especilização na escola DEVSUPERIOR  -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devsuperior)](https://github.com/devsuperior) Professor: Nelio Alves -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/acenelio)](https://github.com/acenelio)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=vitorhla&show_icons=true)
