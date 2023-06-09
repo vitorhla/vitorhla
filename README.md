@@ -22,7 +22,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorhenriquealt@gmail.com)](mailto:vitorhenriquealt@gmail.com)
 
 - 📋 Trabalhando atualmente como Desenvolvedor Pleno.
-- 📚 stacks Java springboot, ReactJS, PLSQL
+- 📚 Stacks Java springboot, ReactJS, PLSQL
 - 📚 Cursando Pós-Graduação em Engenharia de Software.
 - 📚 Cursando Java Experience na TreinaRecife com professor https://github.com/alexandresjunior.
 - 📚 Formado em Analise e Desenvolvimento de Sistemas.
