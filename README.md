@@ -23,9 +23,10 @@
 
 - 📋 Trabalhando atualmente como Desenvolvedor Pleno.
 - 📚 Stacks Java springboot, ReactJS, PLSQL
-- 📚 Cursando Pós-Graduação em Engenharia de Software.
+- 📚 Pós-Graduação em Engenharia de Software.
+- 📚 Analise e Desenvolvimento de Sistemas.
 - 📚 Java Experience na TreinaRecife com professor https://github.com/alexandresjunior.
-- 📚 Formado em Analise e Desenvolvimento de Sistemas.
+
 - 📚 Especilização na escola DEVSUPERIOR  -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devsuperior)](https://github.com/devsuperior) Professor: Nelio Alves -> [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/acenelio)](https://github.com/acenelio)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=vitorhla&show_icons=true)
