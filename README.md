@@ -4,7 +4,7 @@
 
 ## 👋 Olá, eu sou Vitor H.L de Andrade
 
-### 🧑‍💻 Desenvolvedor Pleno apaixonado por tecnologia e inovação
+### 🧑‍💻 Desenvolvedor Pleno, tecnologia e inovação
 
 - 🔧 Stacks: **Java Spring Boot**, **ReactJS**, **PL/SQL**
 - 🎓 Pós-graduando em **Engenharia de Software**
