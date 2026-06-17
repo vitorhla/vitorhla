@@ -8,7 +8,7 @@
 
 - 🔧 Stacks: **Java Spring Boot**, **ReactJS**,**ReactNative**, **PL/SQL**, **.NET**, **Angular**
 -  Dev Backend Pleno em  **Grupo Moura**
-- 🎓 Pós-graduando em **Engenharia de Software**
+- 🎓 Pós-graduado em **Engenharia de Software**
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 📘 Formação Java na [Treina Recife](https://github.com/alexandresjunior)
 - 📘 Especialização na [DevSuperior](https://github.com/devsuperior) com o professor [Nelio Alves](https://github.com/acenelio)
