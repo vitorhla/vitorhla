@@ -7,7 +7,7 @@
 ### 🧑‍💻 Desenvolvedor Pleno, tecnologia e inovação
 
 - 🔧 Stacks: **Java Spring Boot**, **ReactJS**,**ReactNative**, **PL/SQL**, **.NET**, **Angular**
--  Dev Backend Pleno em  **Grupo Moura**
+-  Especialista em Desenvolvimento 2 em   **Global Hitss**
 - 🎓 Pós-graduado em **Engenharia de Software**
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 📘 Formação Java na [Treina Recife](https://github.com/alexandresjunior)
