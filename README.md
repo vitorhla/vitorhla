@@ -38,6 +38,7 @@ Acredito que desenvolver software vai muito além de escrever código: significa
 
 - 🎓 Engenharia de Software.
 - 🎓 Análise e Desenvolvimento de Sistemas.
+- 📘 Desenvolvimento de sistemas com IA — Treina Recife.
 - 📘 Formação Java — Treina Recife.
 - 📘 Especialização em desenvolvimento de software — DevSuperior, com Nélio Alves.
 - 🤖 Desenvolvimento de Sistemas com IA para Programadores — em formação.
