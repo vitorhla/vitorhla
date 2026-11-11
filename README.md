@@ -102,9 +102,14 @@ Acredito que desenvolver software vai muito além de escrever código: significa
 
 ## 📊 GitHub Analytics
 
+
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vitorhla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhla&layout=compact&theme=tokyonight"/>
+  <img height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=vitorhla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+  />
+  <img height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitorhla&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
